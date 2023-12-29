@@ -1,0 +1,28 @@
+{
+    "origin.stargazer.stargazer.name":"Stargazer",
+    "origin.stargazer.stargazer.description":"Nacido bajo el resplandeciente cielo nocturno, el Stargazer es un ser celestial con una profunda conexión con el cosmos. Su propia esencia se entrelaza con las estrellas, las lunas y las galaxias lejanas, otorgándoles poderes y habilidades de otro mundo.",
+    
+    "power.stargazer.astral_velocity.name":"Velocidad Astral",
+    "power.stargazer.astral_velocity.description":"Cuando el sol cae y los cuerpos celestes iluminan el cielo nocturno, el Stargazer aprovecha la antigua energía de las estrellas, mejorando su visión y ganando velocidad.",
+    
+    "power.stargazer.celestial_ward.name":"Sala Celeste",
+    "power.stargazer.celestial_ward.description":"Bañado en el brillo místico de las estrellas, el Stargazer está dotado de un aura protectora forjada a partir de las energías cósmicas de constelaciones lejanas. Este escudo celestial le otorga resistencia contra lo arcano y reduce el impacto de los ataques mágicos.",
+    
+    "power.stargazer.ethereal_shade.name":"Sombra Etérea",
+    "power.stargazer.ethereal_shade.description":"Imbuido de las misteriosas energías del cosmos, el Stargazer adopta una forma semitranslúcida con tonos azules apagados.",
+    
+    "power.stargazer.lunar_dependency.name":"Dependencia Lunar",
+    "power.stargazer.lunar_dependency.description":"Durante el día, el Stargazer se cura más lentamente.",
+    
+    "power.stargazer.meteor_strike.name":"Golpe De Meteorito",
+    "power.stargazer.meteor_strike.description":"Aprovechando las energías cósmicas del universo, el Stargazer invoca un meteoro celestial que desciende sobre el enemigo alcanzado por su mano. §f[Al Golpear]",
+    
+    "power.stargazer.starlight_aegis.name":"Égida Starlight",
+    "power.stargazer.starlight_aegis.description":"Extrayendo energía cosmica, el Stargazer invoca un remolino de radiantes partículas estelares que los envuelve en un abrazo protector. §f[Secundario]",
+    
+    "power.stargazer.stellar_gateway.name":"Puerta Estelar",
+    "power.stargazer.stellar_gateway.description":"El Stargazer puede crear Portales Estelares, que marcan una ubicación y permiten el teletransporte instantáneo de vuelta a la ubicación marcada a voluntad. §f[Primario]",
+    
+    "power.stargazer.stellar_overdraw.name":"Agotamiento Estelar",
+    "power.stargazer.stellar_overdraw.description":"Canalizar las vastas energías del cosmos tiene su precio. Cada vez que el Stargazer invoca sus habilidades activas, experimenta un Agotamiento Estelar, un estado en el que el abrumador poder celestial le ciega temporalmente, mina sus fuerzas y dificulta sus movimientos. Este intenso agotamiento se manifiesta como lentitud, debilidad y ceguera, todo ello aumentado hasta un grado extremo y agotando su hambre. Además de estos efectos inmediatos, la conexión constante del Stargazer con las estrellas le hace más susceptible a los elementos naturales del mundo. El ahogamiento, el fuego y la asfixia dañan más al Stargazer."
+}

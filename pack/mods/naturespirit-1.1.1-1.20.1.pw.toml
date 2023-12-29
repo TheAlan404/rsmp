@@ -1,0 +1,17 @@
+name = "naturespirit-1.1.1-1.20.1"
+filename = "naturespirit-1.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WBvnqHfV/versions/cUt9cfpK/naturespirit-1.1.1-1.20.1.jar"
+hash = "d00cc15ab695020109c7d97bb8074935db369577917d51a6a94440570f70949ce43f916d8162d15537421d2bd23cadc1fe54b4e09c6e3755c8d938a4a862b8d1"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "WBvnqHfV"
+version = "cUt9cfpK"

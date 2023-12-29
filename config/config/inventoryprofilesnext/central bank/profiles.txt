@@ -1,0 +1,16 @@
+
+
+
+
+profile Saved activate HOT8
+	HOT1
+		"minecraft:cooked_mutton"
+	HOT2
+		"minecraft:stone"
+	HOT3
+		"computercraft:monitor_advanced"
+	HOT4
+		"minecraft:arrow"
+	HOT9
+		"hexcasting:staff/dark_oak"
+

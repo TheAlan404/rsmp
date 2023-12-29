@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:blue_ice"
+    },
+    "^": {
+      "item": "minecraft:echo_shard"
+    },
+    "%": {
+      "item": "minecraft:ender_eye"
+    },
+    "a": {
+      "item": "minecraft:enchanted_golden_apple"
+    }
+  },
+  "pattern": [
+    "#a#",
+    "^%^",
+    "#a#"
+  ],
+  "result": {
+    "count": 1,
+    "item": "endrem:cold_eye"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,136 @@
+
+[light_sources]
+	water_sensitive_check = true
+	block_entities = true
+	entities = true
+	self = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				axolotl = true
+				bee = true
+				arrow = true
+				cow = true
+				pig = true
+				skeleton = true
+				llama = true
+				bat = true
+				frog = true
+				husk = true
+				rabbit = true
+				firework_rocket = true
+				silverfish = true
+				armor_stand = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				stray = true
+				item = true
+				salmon = true
+				wandering_trader = true
+				goat = true
+				ocelot = true
+				furnace_minecart = true
+				item_frame = true
+				horse = true
+				vindicator = true
+				phantom = true
+				minecart = true
+				ender_dragon = true
+				evoker = true
+				glow_squid = true
+				glow_item_frame = true
+				squid = true
+				parrot = true
+				creeper = true
+				lightning_bolt = true
+				enderman = true
+				dragon_fireball = true
+				chicken = true
+				trader_llama = true
+				fox = true
+				chest_minecart = true
+				tropical_fish = true
+				slime = true
+				pillager = true
+				iron_golem = true
+				area_effect_cloud = true
+				cat = true
+				zombie = true
+				guardian = true
+				sheep = true
+				player = true
+				illusioner = true
+				potion = true
+				trident = true
+				wither_skull = true
+				villager = true
+				wolf = true
+				zombie_villager = true
+				tnt_minecart = true
+				elder_guardian = true
+				polar_bear = true
+				painting = true
+				cave_spider = true
+				witch = true
+				cod = true
+				spider = true
+				wither = true
+
+			[light_sources.settings.entities.botania]
+				pixie = true
+				mana_burst = true
+				spark = true
+				magic_missile = true
+				doppleganger = true
+				mana_storm = true
+				babylon_weapon = true
+				magic_landmine = true
+				player_mover = true
+				corporea_spark = true
+
+			[light_sources.settings.entities.bewitchment]
+				ghost = true
+				werewolf = true
+				raven = true
+				owl = true
+				horned_spear = true
+				toad = true
+				snake = true
+				elder_broom = true
+				juniper_broom = true
+
+			[light_sources.settings.entities.createbigcannons]
+				pitch_contraption = true
+				machine_gun_bullet = true
+
+			[light_sources.settings.entities.hexcasting]
+				wall_scroll = true
+
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
+				contraption = true
+				super_glue = true
+
+			[light_sources.settings.entities.betterend]
+				cubozoa = true
+				end_slime = true
+				end_fish = true
+
+			[light_sources.settings.entities.wilderwild]
+				firefly = true
+
+			[light_sources.settings.entities.railways]
+				conductor = true
+
+			[light_sources.settings.entities.ad_astra]
+				tier_1_rover = true
+				tier_4_rocket = true
+				lander = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+

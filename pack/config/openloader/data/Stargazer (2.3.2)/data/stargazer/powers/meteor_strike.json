@@ -1,0 +1,35 @@
+{
+    "type":"origins:target_action_on_hit",
+    "entity_action":{
+       "type":"origins:and",
+       "actions":[
+          {
+             "type":"origins:delay",
+             "ticks":20,
+             "action":{
+                "type":"origins:execute_command",
+                "command":"summon firework_rocket ~ ~25 ~ {Silent:1b,LifeTime:1200,Motion:[0d,-1.5d,0d],ShotAtAngle:1b,FireworksItem:{id:\"firework_rocket\",Count:1,tag:{Fireworks:{Explosions:[{Type:4,Colors:[I;2651799,2437522,1973019],FadeColors:[I;2651799,2437522,1973019]},{Type:4,Colors:[I;2651799,2437522,1973019],FadeColors:[I;2651799,2437522,1973019]},{Type:4,Colors:[I;2651799,2437522,1973019],FadeColors:[I;2651799,2437522,1973019]}]}}}}"
+             }
+          },
+          {
+             "type":"origins:play_sound",
+             "sound":"minecraft:entity.illusioner.mirror_move",
+             "volume":1.00,
+             "pitch":2.00
+          }
+       ]
+    },
+    "cooldown":1200,
+    "hud_render":{
+       "should_render":true,
+       "sprite_location":"origins:textures/gui/community/huang/resource_bar_01.png",
+       "bar_index":0
+    },
+    "condition":{
+       "type":"origins:equipped_item",
+       "equipment_slot":"mainhand",
+       "item_condition":{
+          "type":"origins:empty"
+       }
+    }
+}

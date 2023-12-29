@@ -1,0 +1,17 @@
+name = "appliedenergistics2-fabric-15.0.15"
+filename = "appliedenergistics2-fabric-15.0.15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/aQH6ftSR/appliedenergistics2-fabric-15.0.15.jar"
+hash = "a30cab658bba95032302f451dd811df5568c04267924d998870b5c862494c46c57ddd130478b5746c6fa1371aa78a7d47a15f209a2226901eb4dca1e5545e809"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "XxWD5pD3"
+version = "aQH6ftSR"

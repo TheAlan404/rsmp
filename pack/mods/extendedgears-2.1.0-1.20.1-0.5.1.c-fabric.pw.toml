@@ -1,0 +1,17 @@
+name = "extendedgears-2.1.0-1.20.1-0.5.1.c-fabric"
+filename = "extendedgears-2.1.0-1.20.1-0.5.1.c-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qO4lsa4Y/versions/YqweXuwL/extendedgears-2.1.0-1.20.1-0.5.1.c-fabric.jar"
+hash = "9116838e62c1abeb55dc4f49fb901681c5b0240353b296374ac74e8f6d2109b8cf2a6245b399b951658ab3efc077ba570b8f78ae69622baf1f9e6fc15d02312f"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "qO4lsa4Y"
+version = "YqweXuwL"

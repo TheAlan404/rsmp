@@ -1,0 +1,148 @@
+{
+  "type": "create:sequenced_assembly",
+
+  "ingredient": {
+    "item": "minecraft:netherite_block"
+  },
+
+  "transitionalItem": {
+    "item": "minecraft:diamond"
+  },
+
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:diamond"
+        },
+        {
+          "item": "endrem:evil_eye"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:diamond"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:diamond"
+        },
+        {
+          "item": "endrem:undead_eye"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:diamond"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:diamond"
+        },
+        {
+          "item": "endrem:cursed_eye"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:diamond"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:diamond"
+        },
+        {
+          "item": "endrem:magical_eye"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:diamond"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:diamond"
+        },
+        {
+          "item": "betterend:eternal_crystal"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:diamond"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:diamond"
+        },
+        {
+          "item": "dimensional_item_cannons:dimensional_shell_tier4"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:diamond"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:diamond"
+        },
+        {
+          "item": "minecraft:white_bed"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:diamond"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:diamond"
+        },
+        {
+          "item": "computercraft:turtle_advanced"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:diamond"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "origins:orb_of_origin"
+    }
+  ],
+  "loops": 3
+}

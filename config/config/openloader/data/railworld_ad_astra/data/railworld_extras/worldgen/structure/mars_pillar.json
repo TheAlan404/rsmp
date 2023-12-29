@@ -1,0 +1,32 @@
+{
+  "type": "railworld:vein_structure",
+  "biomes": "#ad_astra:has_structure/mars_temple_biomes",
+  "spawn_overrides": {},
+
+  "ores": [
+    {
+      "probability": 0.7,
+      "id": "ad_astra:mars_ostrum_ore"
+    },
+    {
+      "probability": 0.3,
+      "id": "ad_astra:mars_ice_shard_ore"
+    }
+  ],
+  "x": 0,
+  "y": -5,
+  "z": 0,
+
+  "size": 300,
+  "ySize": 25,
+  "extraSize": 300,
+  "perOnce": 30,
+  "ticksPerPlace": 20,
+
+  "step": "surface_structures",
+  "replaces": "#railworld:replacing/stone",
+
+  "decor": [
+    "railworld_extras:mars_pillar"
+  ]
+}

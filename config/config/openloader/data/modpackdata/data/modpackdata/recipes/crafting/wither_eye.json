@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:wither_rose"
+    },
+    "^": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "%": {
+      "item": "minecraft:ender_eye"
+    },
+    "a": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "pattern": [
+    "#a#",
+    "^%^",
+    "#a#"
+  ],
+  "result": {
+    "count": 1,
+    "item": "endrem:wither_eye"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "ad_astra:ice_shard"
+    },
+    "^": {
+      "item": "minecraft:redstone_block"
+    },
+    "%": {
+      "item": "minecraft:diamond"
+    },
+    "a": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "#a#",
+    "^%^",
+    "#a#"
+  ],
+  "result": {
+    "count": 1,
+    "item": "dimensional_item_cannons:dimensional_shell_tier3"
+  },
+  "show_notification": true
+}

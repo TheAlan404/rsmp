@@ -1,0 +1,17 @@
+name = "collective-1.20.1-7.13"
+filename = "collective-1.20.1-7.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/Ma5eCRpx/collective-1.20.1-7.13.jar"
+hash = "3769f3932d39c6dea0583fdbfd04e0d793ca9d64dd71c5da407387b339127528f10ebcfdfce08172d99ee21a7acac625ff5c4f59ac7ccf3a789b20bad7a27d67"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "Ma5eCRpx"

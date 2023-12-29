@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:diamond_block"
+    },
+    "^": {
+      "item": "minecraft:sculk"
+    },
+    "%": {
+      "item": "minecraft:ender_eye"
+    },
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "pattern": [
+    "#n#",
+    "^%^",
+    "#n#"
+  ],
+  "result": {
+    "count": 1,
+    "item": "endrem:black_eye"
+  },
+  "show_notification": true
+}

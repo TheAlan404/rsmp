@@ -1,0 +1,85 @@
+{
+  "type": "create:sequenced_assembly",
+
+  "ingredient": {
+    "item": "computercraft:computer_normal"
+  },
+
+  "transitionalItem": {
+    "item": "computercraft:computer_normal"
+  },
+
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "computercraft:computer_normal"
+        },
+        {
+          "item": "computercraft:computer_normal"
+        }
+      ],
+      "results": [
+        {
+          "item": "computercraft:computer_normal"
+        }
+      ]
+    },
+
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "computercraft:computer_normal"
+        },
+        {
+          "item": "ad_astra:calorite_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "computercraft:computer_normal"
+        }
+      ]
+    },
+
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "computercraft:computer_normal"
+        },
+        {
+          "item": "betterend:eternal_crystal"
+        }
+      ],
+      "results": [
+        {
+          "item": "computercraft:computer_normal"
+        }
+      ]
+    },
+
+    {
+      "type": "create_new_age:energising",
+      "energy_needed": 50000,
+      "ingredients": [
+        {
+          "item": "computercraft:computer_normal"
+        }
+      ],
+      "results": [
+        {
+          "item": "computercraft:computer_normal"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "computercraft:turtle_normal"
+    }
+  ],
+  "loops": 3
+}

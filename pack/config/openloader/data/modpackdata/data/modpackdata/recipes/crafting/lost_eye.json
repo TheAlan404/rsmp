@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "botania:gaia_ingot"
+    },
+    "^": {
+      "item": "botania:overgrowth_seed"
+    },
+    "%": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "pattern": [
+    "#^#",
+    "^%^",
+    "#^#"
+  ],
+  "result": {
+    "count": 1,
+    "item": "endrem:lost_eye"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "1": {
+      "item": "bewitchment:taglock"
+    },
+    "2": {
+      "item": "bewitchment:chalk"
+    },
+    "3": {
+      "item": "bewitchment:golden_chalk"
+    },
+    "4": {
+      "item": "bewitchment:fiery_chalk"
+    },
+    "5": {
+      "item": "bewitchment:eldritch_chalk"
+    },
+    "6": {
+      "item": "minecraft:brewing_stand"
+    },
+    "7": {
+      "item": "minecraft:enchanting_table"
+    },
+    "8": {
+      "item": "bewitchment:brazier"
+    },
+    "%": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "pattern": [
+    "123",
+    "8%4",
+    "765"
+  ],
+  "result": {
+    "count": 1,
+    "item": "endrem:witch_eye"
+  },
+  "show_notification": true
+}

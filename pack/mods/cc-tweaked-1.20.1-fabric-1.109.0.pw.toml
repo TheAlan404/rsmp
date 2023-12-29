@@ -1,0 +1,17 @@
+name = "cc-tweaked-1.20.1-fabric-1.109.0"
+filename = "cc-tweaked-1.20.1-fabric-1.109.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gu7yAYhd/versions/7RnsCpDD/cc-tweaked-1.20.1-fabric-1.109.0.jar"
+hash = "b42940c97fa88e376d31fda087019d1956b135885477feb8158cf06bc84917a8f896d5089c488d4d0889deb49e7177ca7459956ea50e09ec981ec5bc0d9f8d0f"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "gu7yAYhd"
+version = "7RnsCpDD"

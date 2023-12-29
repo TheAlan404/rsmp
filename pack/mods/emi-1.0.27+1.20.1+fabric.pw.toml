@@ -1,0 +1,17 @@
+name = "emi-1.0.27+1.20.1+fabric"
+filename = "emi-1.0.27+1.20.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/KzxcdPKP/emi-1.0.27%2B1.20.1%2Bfabric.jar"
+hash = "79150fd695b99839928e203d7ad6a2f45461913b01d6699ed7348ce244b47b885d2a007dd25e9b2161d87a7a2acb7a285b3092b7c1c27205fcfccdf80b4280af"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "fRiHVvU7"
+version = "KzxcdPKP"

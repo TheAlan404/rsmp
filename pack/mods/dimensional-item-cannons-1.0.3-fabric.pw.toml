@@ -1,0 +1,17 @@
+name = "dimensional-item-cannons-1.0.3-fabric"
+filename = "dimensional-item-cannons-1.0.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4Kr4cVof/versions/B3WbvpPS/dimensional-item-cannons-1.0.3-fabric.jar"
+hash = "e8e0f5895ac6ffd4d9cffd134737075ee3a7040c0e8ede44b50bc34713eb62ce8abd91521eba15a1c280852e7904f8ccb5a6e344f1f5bdfbe0a3007965ef8285"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "4Kr4cVof"
+version = "B3WbvpPS"

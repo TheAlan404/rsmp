@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "botania:terrasteel_block"
+    },
+    "^": {
+      "item": "botania:manasteel_block"
+    },
+    "%": {
+      "item": "minecraft:ender_eye"
+    },
+    "n": {
+      "item": "botania:dragonstone_block"
+    }
+  },
+  "pattern": [
+    "#n#",
+    "^%^",
+    "#n#"
+  ],
+  "result": {
+    "count": 1,
+    "item": "endrem:corrupted_eye"
+  },
+  "show_notification": true
+}

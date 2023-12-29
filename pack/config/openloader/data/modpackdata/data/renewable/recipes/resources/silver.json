@@ -1,0 +1,13 @@
+{
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "output": [
+    {
+      "item": "bewitchment:silver_ingot"
+    }
+  ]
+}

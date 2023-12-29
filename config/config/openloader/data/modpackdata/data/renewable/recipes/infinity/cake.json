@@ -1,0 +1,33 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "wands:creative_wand"
+  },
+  "transitionalItem": {
+    "item": "minecraft:cake"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:cake"
+        },
+        {
+          "item": "create:blaze_cake"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:cake"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "create:creative_blaze_cake"
+    }
+  ],
+  "loops": 6400
+}

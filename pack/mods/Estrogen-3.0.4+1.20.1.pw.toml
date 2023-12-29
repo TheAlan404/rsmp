@@ -1,0 +1,17 @@
+name = "Estrogen-3.0.4+1.20.1"
+filename = "Estrogen-3.0.4+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HhIJW8n1/versions/JTf9Uidx/Estrogen-3.0.4%2B1.20.1.jar"
+hash = "9cc569a0ab656f493a2da39b22ab487c0cd0ab4546c0b742a3a58d777f784dde5cde5e493e20166af838a0c2ed9968ef3d4457db952249e601fc198cc3a435e5"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "HhIJW8n1"
+version = "JTf9Uidx"

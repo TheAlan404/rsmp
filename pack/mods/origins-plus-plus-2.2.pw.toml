@@ -1,0 +1,17 @@
+name = "origins-plus-plus-2.2"
+filename = "origins-plus-plus-2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/npBe7UbS/versions/bfVIibUt/origins-plus-plus-2.2.jar"
+hash = "c4e571212047253a264bd948dbf6a1754ac985303e979f8523298fe15918094e844c46c43b55155f134cfdfaa2e99502f2038b6b404ef45c06f07654e320af9d"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "npBe7UbS"
+version = "bfVIibUt"

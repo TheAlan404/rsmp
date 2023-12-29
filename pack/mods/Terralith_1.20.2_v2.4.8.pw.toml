@@ -1,0 +1,17 @@
+name = "Terralith_1.20.2_v2.4.8"
+filename = "Terralith_1.20.2_v2.4.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/1hOeraaL/Terralith_1.20.2_v2.4.8.jar"
+hash = "24e0346e06d658671967120cf9a27576e665e98a4197dccd4f52cbbc21f373b5d3b58b89a6f362306c5c9d145d8c9390fbf8ff5c2b23c0232b8fb4fdf0fc83c7"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "8oi3bsk5"
+version = "1hOeraaL"

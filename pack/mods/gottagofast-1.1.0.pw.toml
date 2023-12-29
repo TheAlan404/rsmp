@@ -1,0 +1,17 @@
+name = "gottagofast-1.1.0"
+filename = "gottagofast-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ioquzjs2/versions/WSGxYVKu/gottagofast-1.1.0.jar"
+hash = "9ef3af3384ab2fae177b3186b3238b891b14d13d928e5e058184f7713ae5adfe969cd38c586d9eca4f28d87637ffa1e4dc35dff251d326615338ae740370c20c"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "Ioquzjs2"
+version = "WSGxYVKu"

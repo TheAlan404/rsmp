@@ -1,0 +1,17 @@
+name = "simplyswords-fabric-1.51.5-1.20.1"
+filename = "simplyswords-fabric-1.51.5-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bK3Ubu9p/versions/bRyxkjAA/simplyswords-fabric-1.51.5-1.20.1.jar"
+hash = "1b69e5c1dd6abf4be7a088773917931a45387f7780aa58cf37151e933b7233fbef0dfada7187d96eab8d6446f6bfdc77f527039b009fa06659a92fc31c386027"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "bK3Ubu9p"
+version = "bRyxkjAA"

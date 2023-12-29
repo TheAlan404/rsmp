@@ -1,0 +1,10 @@
+{
+  "stellar_gateway.arrive":{
+    "category": "player",
+    "replace": false,
+    "subtitle": "subtitles.stargazer.stellar_gateway.arrive",
+    "sounds": [
+      "stargazer:stellar_gateway/arrive"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "betternether:nether_ruby"
+    },
+    "%": {
+      "item": "minecraft:ender_eye"
+    },
+    "_": {
+      "item": "betternether:cincinnasite_ingot"
+    }
+  },
+  "pattern": [
+    "#_#",
+    "_%_",
+    "#_#"
+  ],
+  "result": {
+    "count": 1,
+    "item": "endrem:nether_eye"
+  },
+  "show_notification": true
+}

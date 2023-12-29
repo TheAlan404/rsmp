@@ -1,0 +1,28 @@
+{
+  "type": "railworld:vein_structure",
+  "biomes": "#railworld:has_vein/netherite",
+  "spawn_overrides": {},
+
+  "ores": [
+    {
+      "probability": 1.0,
+      "id": "minecraft:ancient_debris"
+    }
+  ],
+  "x": 0,
+  "y": -40,
+  "z": 0,
+
+  "size": 80,
+  "ySize": 25,
+  "extraSize": 300,
+  "perOnce": 4,
+  "ticksPerPlace": 40,
+
+  "step": "surface_structures",
+  "replaces": "#railworld:replacing/stone",
+
+  "decor": [
+    "railworld_extras:netherite"
+  ]
+}

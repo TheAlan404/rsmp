@@ -1,0 +1,13 @@
+name = "rsmp"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash = "1e5f0e5773b32df9c1dfbb30b5891c776f173db9cfed4178312e75ee5babf525"
+hash-format = "sha256"
+metafile = false
+preserve = false
+
+[versions]
+fabric = "0.15.0"
+minecraft = "1.20.1"

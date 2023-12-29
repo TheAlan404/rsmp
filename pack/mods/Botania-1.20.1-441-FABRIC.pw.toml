@@ -1,0 +1,17 @@
+name = "Botania-1.20.1-441-FABRIC"
+filename = "Botania-1.20.1-441-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pfjLUfGv/versions/XiOSfzIW/Botania-1.20.1-441-FABRIC.jar"
+hash = "9c0a1158631a3541a6cc6ba9c39271a0aaeace9d8cf5284a02da07aa7ff341a35449c11dc56b062e9ebfdd59b244dcbb5b8b5583fe450866a9a0f115cc7ec7a6"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "pfjLUfGv"
+version = "XiOSfzIW"

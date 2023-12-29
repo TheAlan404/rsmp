@@ -1,0 +1,17 @@
+name = "treeharvester-1.20.1-8.3"
+filename = "treeharvester-1.20.1-8.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/abooMhox/versions/wkiPy9BG/treeharvester-1.20.1-8.3.jar"
+hash = "d9ced994a911446bd2bd935ee56acae38e306d7db7e464dcd22962f5e1454469c8f44b7399f70b67ee20039497550d7da93e6919e36472229a637c3389e6f1d5"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "abooMhox"
+version = "wkiPy9BG"

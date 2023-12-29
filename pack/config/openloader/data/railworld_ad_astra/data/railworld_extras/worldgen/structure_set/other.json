@@ -1,0 +1,22 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 94527235194,
+    "separation": 30,
+    "spacing": 40
+  },
+  "structures": [
+    {
+      "structure": "railworld_extras:emerald",
+      "weight": 8
+    },
+    {
+      "structure": "railworld_extras:end",
+      "weight": 8
+    },
+    {
+      "structure": "railworld_extras:zinc",
+      "weight": 8
+    }
+  ]
+}

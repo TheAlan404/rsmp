@@ -1,0 +1,22 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 527234291,
+    "separation": 32,
+    "spacing": 80
+  },
+  "structures": [
+    {
+      "structure": "railworld:lapis_diamond_vein",
+      "weight": 4
+    },
+    {
+      "structure": "railworld:iron_tree",
+      "weight": 9
+    },
+    {
+      "structure": "railworld:gold_diamond_vein",
+      "weight": 1
+    }
+  ]
+}

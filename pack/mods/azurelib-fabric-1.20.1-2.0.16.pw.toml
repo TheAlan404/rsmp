@@ -1,0 +1,17 @@
+name = "azurelib-fabric-1.20.1-2.0.16"
+filename = "azurelib-fabric-1.20.1-2.0.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7zlUOZvb/versions/LoLYMwnx/azurelib-fabric-1.20.1-2.0.16.jar"
+hash = "3f76931f560dcdc9222788cb494013a5bcbc508eaa87151a1d58e51967040d178169e0828611ab92b0fd0df099f0e473120219de8c3c666fdbffd8586ffa9f51"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "7zlUOZvb"
+version = "LoLYMwnx"

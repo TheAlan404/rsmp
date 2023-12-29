@@ -1,0 +1,17 @@
+name = "alternate-current-mc1.20-1.7.0"
+filename = "alternate-current-mc1.20-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/zrRsTCOk/alternate-current-mc1.20-1.7.0.jar"
+hash = "10355abdedd8f23c3ad7afa2268988dbce90306c807ab1076f6103f2263dcaad8323b356d76e585910ed6acd0226dc4031e681462524ed4c4c8c0a3564042619"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "r0v8vy1s"
+version = "zrRsTCOk"

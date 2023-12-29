@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "1": {
+      "item": "minecraft:moss_block"
+    },
+    "2": {
+      "item": "minecraft:bamboo"
+    },
+    "3": {
+      "item": "minecraft:cherry_sapling"
+    },
+    "4": {
+      "item": "terrestria:rainbow_eucalyptus_sapling"
+    },
+    "5": {
+      "item": "minecraft:mangrove_propagule"
+    },
+    "6": {
+      "item": "minecraft:lily_pad"
+    },
+    "7": {
+      "item": "betternether:rubeus_sapling"
+    },
+    "8": {
+      "item": "terrestria:japanese_maple_sapling"
+    },
+    "%": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "pattern": [
+    "123",
+    "8%4",
+    "765"
+  ],
+  "result": {
+    "count": 1,
+    "item": "endrem:guardian_eye"
+  },
+  "show_notification": true
+}

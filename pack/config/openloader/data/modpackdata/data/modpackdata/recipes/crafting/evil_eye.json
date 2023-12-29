@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "create:brass_block"
+    },
+    "^": {
+      "item": "create:sturdy_sheet"
+    },
+    "%": {
+      "item": "minecraft:ender_eye"
+    },
+    "a": {
+      "item": "create:blaze_cake"
+    }
+  },
+  "pattern": [
+    "#a#",
+    "^%^",
+    "#a#"
+  ],
+  "result": {
+    "count": 1,
+    "item": "endrem:evil_eye"
+  },
+  "show_notification": true
+}

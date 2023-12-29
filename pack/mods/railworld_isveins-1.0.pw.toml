@@ -1,0 +1,17 @@
+name = "railworld_isveins-1.0"
+filename = "railworld_isveins-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hB9tPnTQ/versions/NhmaGKCI/railworld_isveins-1.0.jar"
+hash = "dd1ff8c798ececd4cb75cac4c537b633c72d4bebb6fa3fb0a64fb65afd9f9ce8991debb363f294be80377c79774949ab11e5ee898222768479aacf9adecefc5c"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "hB9tPnTQ"
+version = "NhmaGKCI"

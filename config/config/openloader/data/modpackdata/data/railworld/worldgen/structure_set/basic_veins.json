@@ -1,0 +1,22 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 527234290,
+    "separation": 24,
+    "spacing": 80
+  },
+  "structures": [
+    {
+      "structure": "railworld:iron_coal_vein",
+      "weight": 9
+    },
+    {
+      "structure": "railworld:iron_vein",
+      "weight": 9
+    },
+    {
+      "structure": "railworld:gold_iron_vein",
+      "weight": 6
+    }
+  ]
+}

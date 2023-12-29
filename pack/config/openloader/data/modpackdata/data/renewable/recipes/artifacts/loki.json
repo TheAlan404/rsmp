@@ -1,0 +1,24 @@
+{
+  "type": "botania:terra_plate",
+  "ingredients": [
+    {
+      "item": "botania:terrasteel_block"
+    },
+    {
+      "item": "botania:dice"
+    },
+    {
+      "item": "botania:gaia_ingot"
+    },
+    {
+      "item": "betterend:eternal_crystal"
+    },
+    {
+      "item": "wands:diamond_wand"
+    }
+  ],
+  "mana": 2000000,
+  "result": {
+    "item": "botania:loki_ring"
+  }
+}

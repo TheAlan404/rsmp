@@ -1,0 +1,17 @@
+name = "jei-1.20.1-fabric-15.2.0.27"
+filename = "jei-1.20.1-fabric-15.2.0.27.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/lIRFslED/jei-1.20.1-fabric-15.2.0.27.jar"
+hash = "e7252a28b2c61b96e0dce91bc2cda3d9eacf3660b465b3ef90ca6026ed1ee463bb687b68344987b2439de79979c0fa2a29b4ac599abec210c876d050edefd23c"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "u6dRKJwZ"
+version = "lIRFslED"

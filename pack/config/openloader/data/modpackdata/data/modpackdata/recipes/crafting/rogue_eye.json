@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "simplyswords:uniques"
+    },
+    "%": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "pattern": [
+    "###",
+    "#%#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "item": "endrem:rogue_eye"
+  },
+  "show_notification": true
+}

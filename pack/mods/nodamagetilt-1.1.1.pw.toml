@@ -1,0 +1,17 @@
+name = "nodamagetilt-1.1.1"
+filename = "nodamagetilt-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nCQZynHB/versions/ZrsLp6g6/nodamagetilt-1.1.1.jar"
+hash = "22d61681ac0c369b6b549cf9a9f8f815fd667e524552174ec989ffcd6bc33fdca5d15bb5f0459a9cb4d13d8f0a9408f810d1c38ffe7be8ab56946b8016233871"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "nCQZynHB"
+version = "ZrsLp6g6"

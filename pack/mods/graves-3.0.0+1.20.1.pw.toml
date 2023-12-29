@@ -1,0 +1,17 @@
+name = "graves-3.0.0+1.20.1"
+filename = "graves-3.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yn9u3ypm/versions/KTdIlBNB/graves-3.0.0%2B1.20.1.jar"
+hash = "28d846b811f68937ff1c21bb7412c6d3a1e1e49e4acaae68caa16d97fb22fae975afef3baf8fe85abe930e1619a4b32e2dc57346d7b611fdfd87ec3c5f683225"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "yn9u3ypm"
+version = "KTdIlBNB"

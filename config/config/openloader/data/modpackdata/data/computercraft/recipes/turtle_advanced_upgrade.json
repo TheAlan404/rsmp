@@ -1,0 +1,85 @@
+{
+  "type": "create:sequenced_assembly",
+
+  "ingredient": {
+    "item": "computercraft:turtle_normal"
+  },
+
+  "transitionalItem": {
+    "item": "computercraft:turtle_normal"
+  },
+
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "computercraft:turtle_normal"
+        },
+        {
+          "item": "computercraft:turtle_normal"
+        }
+      ],
+      "results": [
+        {
+          "item": "computercraft:turtle_normal"
+        }
+      ]
+    },
+
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "computercraft:turtle_normal"
+        },
+        {
+          "item": "ad_astra:calorite_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "computercraft:turtle_normal"
+        }
+      ]
+    },
+
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "computercraft:turtle_normal"
+        },
+        {
+          "item": "betterend:eternal_crystal"
+        }
+      ],
+      "results": [
+        {
+          "item": "computercraft:turtle_normal"
+        }
+      ]
+    },
+
+    {
+      "type": "create_new_age:energising",
+      "energy_needed": 500000,
+      "ingredients": [
+        {
+          "item": "computercraft:turtle_normal"
+        }
+      ],
+      "results": [
+        {
+          "item": "computercraft:turtle_normal"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "computercraft:turtle_advanced"
+    }
+  ],
+  "loops": 2
+}

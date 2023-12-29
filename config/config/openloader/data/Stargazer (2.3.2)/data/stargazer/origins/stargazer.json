@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"stargazer:stellar_gateway",
+		"stargazer:starlight_aegis",
+		"stargazer:astral_velocity",
+		"stargazer:meteor_strike",
+		"stargazer:celestial_ward",
+		"stargazer:ethereal_shade",
+		"stargazer:lunar_dependency",
+		"stargazer:stellar_overdraw"
+	],
+	"icon": "minecraft:nether_star",
+	"unchoosable": false,
+	"order": 10,
+	"impact": 3,
+	"loading_priority":0
+}

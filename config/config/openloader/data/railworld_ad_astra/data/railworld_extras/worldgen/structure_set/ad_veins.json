@@ -1,0 +1,30 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 5272345194,
+    "separation": 16,
+    "spacing": 40
+  },
+  "structures": [
+    {
+      "structure": "railworld_extras:moon_tree",
+      "weight": 8
+    },
+    {
+      "structure": "railworld_extras:mars_pillar",
+      "weight": 8
+    },
+    {
+      "structure": "railworld_extras:venus_thing",
+      "weight": 8
+    },
+    {
+      "structure": "railworld_extras:netherite",
+      "weight": 8
+    },
+    {
+      "structure": "railworld_extras:quartz",
+      "weight": 8
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+name = "railworld-1.20.1-1.0.2"
+filename = "railworld-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UCI1lfKJ/versions/B2J0qjSA/railworld-1.20.1-1.0.2.jar"
+hash = "f06f3fec98bd238c0a522084838b135d235dcf46b7e250a91f9a5f4dc3b8f322e67644fd1b6dc81556e60e50c46d57c6bea25a62080536bd0bb210e0150be550"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "UCI1lfKJ"
+version = "B2J0qjSA"

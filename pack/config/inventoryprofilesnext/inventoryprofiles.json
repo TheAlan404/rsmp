@@ -1,0 +1,110 @@
+{
+    "ModSettings": {
+        "include_hotbar_modifier": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "move_all_modifier": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "move_focus_mach_modifier": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "move_just_refill_modifier": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "highlight_foused_items": {
+            "value": false
+        },
+        "highlight_foused_items_foreground": false,
+        "highlight_foused_items_color": "#01B30B0E",
+        "enable_profiles": {
+            "value": false
+        },
+        "enable_lock_slots": {
+            "value": false
+        },
+        "enable_lock_slots_per_server": false,
+        "enable_auto_refill": {
+            "value": false
+        },
+        "villager_trading_enable": {
+            "value": false
+        },
+        "enable_updates_check": false,
+        "highlight_clicking_slot": false,
+        "sort_at_cursor": false,
+        "move_all_at_cursor": false,
+        "ignore_durability": false,
+        "first_run": false
+    },
+    "GuiSettings": {
+        "enable_inventory_editor_button": {
+            "value": false
+        },
+        "enable_inventory_settings_button": {
+            "value": false
+        },
+        "enable_profiles_ui": {
+            "value": false
+        },
+        "enable_inventory_buttons": {
+            "value": false
+        },
+        "show_fast_rename_checkbox": {
+            "value": false
+        },
+        "show_continuous_crafting_checkbox": {
+            "value": false
+        }
+    },
+    "Hotkeys": {
+        "open_config_menu": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "sort_inventory": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "move_all_items": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "throw_all_items": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "scroll_to_chest": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "scroll_to_inventory": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "open_gui_editor": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "apply_profile": {
+            "main": {
+                "keys": ""
+            }
+        }
+    }
+}

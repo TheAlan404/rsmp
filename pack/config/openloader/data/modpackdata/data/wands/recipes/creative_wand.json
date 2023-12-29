@@ -1,0 +1,119 @@
+{
+  "type": "create:sequenced_assembly",
+
+  "ingredient": {
+    "item": "botania:laputa_shard"
+  },
+
+  "transitionalItem": {
+    "item": "create_new_age:incomplete_enchanted_golden_apple"
+  },
+
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "wands:netherite_wand"
+        },
+        {
+          "item": "wands:netherite_wand"
+        }
+      ],
+      "results": [
+        {
+          "item": "wands:netherite_wand"
+        }
+      ]
+    },
+
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "wands:netherite_wand"
+        },
+        {
+          "item": "ad_astra:calorite_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "wands:netherite_wand"
+        }
+      ]
+    },
+
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "wands:netherite_wand"
+        },
+        {
+          "item": "ad_astra:ostrum_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "wands:netherite_wand"
+        }
+      ]
+    },
+
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "wands:netherite_wand"
+        },
+        {
+          "item": "ad_astra:desh_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "wands:netherite_wand"
+        }
+      ]
+    },
+
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "wands:netherite_wand"
+        },
+        {
+          "item": "betterend:eternal_crystal"
+        }
+      ],
+      "results": [
+        {
+          "item": "wands:netherite_wand"
+        }
+      ]
+    },
+
+    {
+      "type": "create_new_age:energising",
+      "energy_needed": 500000,
+      "ingredients": [
+        {
+          "item": "wands:netherite_wand"
+        }
+      ],
+      "results": [
+        {
+          "item": "wands:netherite_wand"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "wands:creative_wand"
+    }
+  ],
+  "loops": 8
+}

@@ -1,0 +1,17 @@
+name = "CasualnessDelight-1.20.1-0.2a"
+filename = "CasualnessDelight-1.20.1-0.2a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zYuGPZIx/versions/C3Fq4qcX/CasualnessDelight-1.20.1-0.2a.jar"
+hash = "ffe44b7b7b6fa18f05d655e66084da6223cf45aefe2646cd5966d2105a7fa6087c69a1f1c7b0d179a571029018066f9745471ea4a3359daee947b6204c9254f3"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "zYuGPZIx"
+version = "C3Fq4qcX"

@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "1": {
+      "item": "hexcasting:pride_colorizer_asexual"
+    },
+    "2": {
+      "item": "hexcasting:pride_colorizer_bisexual"
+    },
+    "3": {
+      "item": "hexcasting:pride_colorizer_gay"
+    },
+    "4": {
+      "item": "hexcasting:pride_colorizer_intersex"
+    },
+    "5": {
+      "item": "hexcasting:pride_colorizer_lesbian"
+    },
+    "6": {
+      "item": "hexcasting:pride_colorizer_nonbinary"
+    },
+    "7": {
+      "item": "hexcasting:pride_colorizer_plural"
+    },
+    "8": {
+      "item": "hexcasting:pride_colorizer_transgender"
+    },
+    "%": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "pattern": [
+    "123",
+    "8%4",
+    "765"
+  ],
+  "result": {
+    "count": 1,
+    "item": "endrem:cryptic_eye"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "1": {
+      "item": "botania:rune_spring"
+    },
+    "2": {
+      "item": "botania:rune_summer"
+    },
+    "3": {
+      "item": "botania:rune_autumn"
+    },
+    "4": {
+      "item": "botania:rune_winter"
+    },
+    "5": {
+      "item": "botania:rune_mana"
+    },
+    "6": {
+      "item": "botania:rune_pride"
+    },
+    "7": {
+      "item": "botania:rune_envy"
+    },
+    "8": {
+      "item": "botania:rune_wrath"
+    },
+    "%": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "pattern": [
+    "123",
+    "8%4",
+    "765"
+  ],
+  "result": {
+    "count": 1,
+    "item": "endrem:cursed_eye"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#P#",
+    "PEP",
+    "RPR"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "P": {
+      "item": "wands:magic_bag_1"
+    },
+    "R": {
+      "item": "minecraft:rabbit_hide"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "wands:magic_bag_2",
+    "count": 1
+  }
+}

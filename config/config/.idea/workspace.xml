@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74bcf829-d05b-461a-98c3-f143cef7e758" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2XvtD4anHrlW0mGnjY3DqzpaYhd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/stepangajdukevic/Library/Application Support/PrismLauncher/instances/Cool Survival/.minecraft/config/openloader/data/modpackdata/data/renewable/recipes/artifacts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/openloader/data/modpackdata/data/renewable/recipes/artifacts" />
+      <recent name="$PROJECT_DIR$/openloader/data/railworld_ad_astra/data/railworld_extras/worldgen/structure" />
+      <recent name="$PROJECT_DIR$/openloader/data/railworld_ad_astra/data/railworld_extras/structures" />
+      <recent name="$PROJECT_DIR$/openloader/data/modpackdata/data/modpackdata/recipes/crafting" />
+      <recent name="$PROJECT_DIR$/openloader/data/modpackdata/data/railworld/tags/worldgen/biome/has_vein" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/openloader/data/railworld_ad_astra/data/railworld_extras/structures" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74bcf829-d05b-461a-98c3-f143cef7e758" name="Changes" comment="" />
+      <created>1686151198910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686151198910</updated>
+      <workItem from="1699521259989" duration="24151000" />
+      <workItem from="1699615844293" duration="11675000" />
+      <workItem from="1699682697848" duration="4334000" />
+      <workItem from="1699708583391" duration="3151000" />
+      <workItem from="1699721462489" duration="6338000" />
+      <workItem from="1699784489086" duration="3036000" />
+      <workItem from="1699788208553" duration="7000" />
+      <workItem from="1699799201880" duration="2546000" />
+      <workItem from="1699805067313" duration="1539000" />
+      <workItem from="1699888210559" duration="3028000" />
+      <workItem from="1700407473332" duration="1358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

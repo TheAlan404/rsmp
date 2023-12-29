@@ -1,0 +1,32 @@
+{
+  "type": "railworld:vein_structure",
+  "biomes": "#railworld:has_vein/iron_coal",
+  "spawn_overrides": {},
+
+  "ores": [
+    {
+      "probability": 0.5,
+      "id": "create:zinc_ore"
+    },
+    {
+      "probability": 0.5,
+      "id": "minecraft:tuff"
+    }
+  ],
+  "x": 0,
+  "y": -40,
+  "z": 0,
+
+  "size": 300,
+  "ySize": 25,
+  "extraSize": 200,
+  "perOnce": 80,
+  "ticksPerPlace": 100,
+
+  "step": "surface_structures",
+  "replaces": "#railworld:replacing/stone",
+
+  "decor": [
+    "railworld_extras:zinc"
+  ]
+}

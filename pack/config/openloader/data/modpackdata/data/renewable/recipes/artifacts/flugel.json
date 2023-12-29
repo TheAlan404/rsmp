@@ -1,0 +1,33 @@
+{
+  "type": "botania:terra_plate",
+  "ingredients": [
+    {
+      "item": "botania:terrasteel_block"
+    },
+    {
+      "item": "botania:dice"
+    },
+    {
+      "item": "botania:gaia_ingot"
+    },
+    {
+      "item": "betterend:eternal_crystal"
+    },
+    {
+      "item": "endrem:corrupted_eye"
+    },
+    {
+      "item": "things:displacement_tome"
+    },
+    {
+      "item": "endrem:lost_eye"
+    },
+    {
+      "item": "endrem:cursed_eye"
+    }
+  ],
+  "mana": 20000000,
+  "result": {
+    "item": "botania:flugel_eye"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "^": {
+      "item": "minecraft:end_stone"
+    },
+    "%": {
+      "item": "minecraft:diamond"
+    },
+    "a": {
+      "item": "betterend:ender_shard"
+    }
+  },
+  "pattern": [
+    "#a#",
+    "^%^",
+    "#a#"
+  ],
+  "result": {
+    "count": 2,
+    "item": "betterend:crystal_shards"
+  },
+  "show_notification": true
+}

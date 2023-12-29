@@ -1,0 +1,17 @@
+name = "artifacts-fabric-9.2.0"
+filename = "artifacts-fabric-9.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/bbR3MLn5/artifacts-fabric-9.2.0.jar"
+hash = "3249d43153d7b7586c015dc4e21ab52dffba363a19855e84e5f6ea45b7973ad07ab1b0911ea5920fdbad644f3783955de9f72bd720ee4a78fc4e8d4238b55004"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "P0Mu4wcQ"
+version = "bbR3MLn5"

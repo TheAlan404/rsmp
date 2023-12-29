@@ -1,0 +1,10 @@
+{
+  "keep_elytra_visible": false,
+  "keep_cape_visible": true,
+  "players_only": true,
+  "toggles_helmet": true,
+  "toggles_chestplate": true,
+  "toggles_leggings": true,
+  "toggles_boots": true,
+  "version": 3
+}
