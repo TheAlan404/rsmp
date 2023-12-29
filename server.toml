@@ -778,4 +778,8 @@ type = "modrinth"
 id = "1eAoo2KR"
 version = "3hsIB5yP"
 
+[markdown]
+files = ["README.md"]
+auto_update = false
+
 [options]
